@@ -3,6 +3,20 @@
 body{
     background-color: hsl(218, 23%, 16%);
 }
+
+footer{
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    left: 34%;
+    color: white
+}
+
+a{
+    text-decoration: none;
+    color: aqua
+}
+
 .tipCont{
     margin: auto;
     margin-top: 70px;
