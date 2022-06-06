@@ -1,11 +1,17 @@
-import { Route } from "react-router-dom";
 import Tips from "./Components/Tips";
+import  Footer  from "./Components/footer";
+import "./App.css"
 
 function App() {
   return (
     <div className="App">
-     <Route to={"/app/quotes"}></Route>
-     <Route to={"/app/tips"}><Tips /></Route>
+      <div className="tipContainer">
+        <Tips />
+      </div>
+
+      <div className="footerContainer">
+        <Footer />
+      </div>
     </div>
   );
 }
