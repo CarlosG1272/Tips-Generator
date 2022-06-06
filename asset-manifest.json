@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tips-Generator/static/css/main.8455c2da.css",
+    "main.js": "/Tips-Generator/static/js/main.a64b6812.js",
+    "index.html": "/Tips-Generator/index.html",
+    "main.8455c2da.css.map": "/Tips-Generator/static/css/main.8455c2da.css.map",
+    "main.a64b6812.js.map": "/Tips-Generator/static/js/main.a64b6812.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8455c2da.css",
+    "static/js/main.a64b6812.js"
+  ]
+}
