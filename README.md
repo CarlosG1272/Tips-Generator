@@ -1,4 +1,4 @@
-# 🐶 Tips Generator
+# 💡 Tips Generator
 This is a generator of tips, that uses a Public Api Rest.
 This App generates daily tips. This comes from a front-end challenge, in which requests are made to an API, DOM manipulation, use of styles, components.
 I created this front-end App using Html, Css, JavaScript and React.js.
